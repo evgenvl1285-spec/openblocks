@@ -86,3 +86,4 @@ You can access Openblocks from [cloud-hosted version](https://cloud.openblocks.d
 - [Use JS query to orchestrate other queries](https://cloud.openblocks.dev/apps/63c8fb1e0279b679be2b5a09/view)
 - [Data responder demo](https://cloud.openblocks.dev/apps/63f84d23f5f6f66102fedf81/view)
 - [Change theme by code](https://cloud.openblocks.dev/apps/63f84ca9f5f6f66102fedf3b/view)
+d3cba2db1412e937cda04ee196f3eaaecc13cc47
